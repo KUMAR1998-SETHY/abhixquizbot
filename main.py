@@ -5,7 +5,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 TOKEN = os.getenv("BOT_TOKEN", "7227173658:AAHB7Zj2EUXE5IHSCBBzOi8k2Ql76bLIkaA")
-QUIZ_CHAT_ID = os.getenv("CHAT_ID", "-1001234567890")  # group/channel/chat ID
+QUIZ_CHAT_ID = os.getenv("CHAT_ID", "-1002577256117")  # group/channel/chat ID
 
 # ---------------------- Commands ----------------------
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
