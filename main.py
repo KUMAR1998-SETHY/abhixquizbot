@@ -4,7 +4,7 @@ import os
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
-TOKEN = os.getenv("BOT_TOKEN", "YOUR_BOT_TOKEN_HERE")
+TOKEN = os.getenv("BOT_TOKEN", "7227173658:AAHB7Zj2EUXE5IHSCBBzOi8k2Ql76bLIkaA")
 QUIZ_CHAT_ID = os.getenv("CHAT_ID", "-1001234567890")  # group/channel/chat ID
 
 # ---------------------- Commands ----------------------
