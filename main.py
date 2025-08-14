@@ -7,7 +7,7 @@ from telegram.ext import (
 )
 
 # ---------------- CONFIG ----------------
-TOKEN = "YOUR_BOT_TOKEN"
+TOKEN = "7227173658:AAHB7Zj2EUXE5IHSCBBzOi8k2Ql76bLIkaA"
 ADMINS = [850255908, 779677145]   # Admin IDs
 DEFAULT_DURATION = 30              # Default quiz duration in seconds
 RANDOMIZE_QUESTIONS = True
